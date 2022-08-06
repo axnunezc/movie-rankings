@@ -1,0 +1,2 @@
+# movie-rankings
+Flask Web Application in which users can search for movies through The Movie Database API and add them to their ranking. The application then orders all of the movies based on the user's rating, with the #1 ranked movie being the one that received the best rating from the user. Users are also allowed to edit their ratings and reviews, as well as completely delete the movies from their ranking.
